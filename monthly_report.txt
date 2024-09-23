@@ -1,0 +1,2 @@
+Total sales: Rs30000
+Average sales: Rs1000.00

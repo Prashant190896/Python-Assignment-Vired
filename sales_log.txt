@@ -1,0 +1,2 @@
+Day 1 sales: Rs1000
+Day 2 sales: Rs1200
